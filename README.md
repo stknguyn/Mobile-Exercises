@@ -1,4 +1,4 @@
-[![](https://skillicons.dev/icons?i=kotlin,vim,vscode)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,kotlin,androidstudio,vscode)](https://skillicons.dev)
 ## Giới thiệu
 Đây là repo chứa các bài tập môn Lập trình di động
 ## Tổng quan
